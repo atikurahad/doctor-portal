@@ -1,0 +1,254 @@
+[
+  {
+    "category": "mens-clothing",
+    "id": 1,
+    "image": "https://static.fibre2fashion.com/MemberResources/LeadResources/1/2018/4/Seller/18144566/Images/18144566_0_casual-shirt-for-men.jpg ",
+    "Desc": "Being an industry leader, we are engaged in manufacturing and supplying Casual Shirt For Men.",
+    "price": "23.87",
+    "stock": "21",
+    "seller": "Maruf Tailor's"
+  },
+  {
+    "category": "women-clothing",
+    "id": 2,
+    "image": " https://upload.wikimedia.org/wikipedia/commons/0/03/Woman_in_a_V-Neck_T-Shirt.jpg",
+    "Desc": "They are typically made of cotton textile in a stockinette or jersey knit, which has a distinctively pliable texture compared to shirts made of woven cloth. ",
+    "price": "11.10",
+    "stock": "23",
+    "seller": "Women world"
+  },
+  {
+    "category": "mens-clothing",
+    "id": 3,
+    "image": " https://assets.ajio.com/medias/sys_master/root/20210420/R70k/607ecc5baeb269a9e3971fef/-1117Wx1400H-462323964-green-MODEL.jpg",
+    "Desc": "Fabric - 100% Premium Cotton, Pre-Washed for extremely soft finish and Guaranteed 0% Shrinkage Post Washing",
+    "price": "34.98",
+    "stock": "19",
+    "seller": "Labib Fashion"
+  },
+  {
+    "category": "mens-clothing",
+    "id": 4,
+    "image": "https://www.doubletwo.co.uk/media/catalog/product/cache/c6c1bd86f43b8caa5eecdaaa381e98d2/s/l/sls4500ae_freshblue_doubletwo_shirt_web.jpg ",
+    "Desc": "Enhance your look by wearing this Casual Stylish Men's shirt, Team it with a pair of tapered denims Or Solid Chinos and Loafers for a fun Smart Casual look",
+    "price": "14.71",
+    "stock": "14",
+    "seller": "Akib gallery"
+  },
+  {
+    "category": "Women-clothing",
+    "id": 5,
+    "image": " https://www.bdstall.com/asset/product-image/giant_107838.jpg",
+    "Desc": "Sea green color art, cotton silk, less embroidered, comfortable use for party and travelling.",
+    "price": "112.00",
+    "stock": "8",
+    "seller": "Shree House"
+  },
+  {
+    "category": "mens-clothing",
+    "id": 6,
+    "image": "https://n.nordstrommedia.com/id/sr3/138e6403-683c-44d1-836e-4f0e43564d1a.jpeg?h=365&w=240&dpr=2 ",
+    "Desc": "Grey and Black colourblocked jacket, has a hooded, 3 pockets, zip closure, long sleeves, straight hem, and polyester lining",
+    "price": "12.56",
+    "stock": "118",
+    "seller": "Jackson Fashion"
+  },
+  {
+    "category": "Women-clothing",
+    "id": 7,
+    "image": " https://images.squarespace-cdn.com/content/v1/59413b21f7e0ab31c3723862/1584019588900-3HJ8QRAF27DSHTNVPZEG/Econscious-Recycled-Full-Zip-Hoodie-v2.jpg",
+    "Desc": "Hand Made Tat er sharee. More comfrtable and more stylish.",
+    "price": "22.92",
+    "stock": "10",
+    "seller": "Not Applied"
+  },
+  {
+    "category": "mens-clothing",
+    "id": 8,
+    "image": "https://assetscdn1.paytm.com/images/catalog/view_item/620717/1611044396619.jpg?imwidth=414&impolicy=hq ",
+    "Desc": " Hand Made Shoe,Long lasting durability.All season useable.",
+    "price": "34.90",
+    "stock": "8",
+    "seller": "Cablor House"
+  },
+  {
+    "category": "Women-clothing",
+    "id": 9,
+    "image": "https://assets.myntassets.com/dpr_1.5,q_60,w_400,c_limit,fl_progressive/assets/images/14046594/2021/7/9/b097caa8-6f83-4ffc-aeca-9e154e39a9731625806322462-Libas-Women-Navy-Blue--Yellow-Floral-Printed-Pure-Cotton-Kur-1.jpg ",
+    "Desc": "Stately and versatile, this kurta set will be your top choice. Its eye-catching printed kurta comes with snug printed palazzos and a gorgeous printed dupatta for added appeal.",
+    "price": "123.54",
+    "stock": "11",
+    "seller": "Zarita Butik"
+  },
+  {
+    "category": "Women-clothing",
+    "id": 10,
+    "image": " https://ds393qgzrxwzn.cloudfront.net/resize/m500x500/cat1/img/images/0/L73BGjQzRR.jpg",
+    "Desc": "Kurtais a traditional dress in the subcontinental area like Bangladesh. These Kurtas are made of soft fabrics. ",
+    "price": "28.56",
+    "stock": "11",
+    "seller": "Mayaz Applied"
+  },
+  {
+    "category": "Women-clothing",
+    "id": 11,
+    "image": " https://www.lookwhatichoose.com/wp-content/uploads/2020/04/Myntra-ain-rainbow-women-navy-blu-coral-pink-printed-tiered-anarkali-lookwhatichoose.jpg",
+    "Desc": "Ivory silk saree with red, peach, grey and black dyeing. Golden, maroon and dusty pink prints all over the body. ",
+    "price": "39.99",
+    "stock": "01",
+    "seller": "Zoom Applied"
+  },
+  {
+    "category": "Women-clothing",
+    "id": 12,
+    "image": "https://bolteraho.com/wp-content/uploads/2019/10/d6890d9e-53d6-49eb-bc61-3c39c76f4d371540799133286-AKS-Women-Kurtas-91540799133146-1.jpg ",
+    "Desc": "Blue printed silk saree with blue appliqué and embroidery, aanchal with tassel trim. Comes with matching unstitched blouse piece.",
+    "price": "67.91",
+    "stock": "55",
+    "seller": "Aarong BD"
+  },
+  {
+    "category": "Women-clothing",
+    "id": 13,
+    "image": "https://assets.myntassets.com/dpr_1.5,q_60,w_400,c_limit,fl_progressive/assets/images/11056866/2019/12/9/67a0d919-cbca-4d89-a8f1-6a25c9e9305c1575891613300-Round-NeckWith--34th-Sleeve-Straight-Floral-print-Crepe-Kurt-1.jpg ",
+    "Desc": "Ivory silk saree with red, peach, grey and black dyeing. Golden, maroon and dusty pink prints all over the body. ",
+    "price": "87.99",
+    "stock": "20",
+    "seller": "Nana Fashion"
+  },
+  {
+    "category": "mens-clothing",
+    "id": 14,
+    "image": "https://www.realmenrealstyle.com/wp-content/uploads/2022/01/5F88ADD2-1EF7-4C80-969E-795D8C480526.jpeg ",
+    "Desc": "Chocolate and brown textured mixed cotton coaty with black embroidery. Features with bottom pocket.",
+    "price": "45.00",
+    "stock": "05",
+    "seller": "Not For Style"
+  },
+  {
+    "category": "Couple-clothing",
+    "id": 15,
+    "image": "https://m.media-amazon.com/images/I/41msEdio7iL.jpg ",
+    "Desc": "Midnight blue cotton panjabi with multicolour embroidery. Additional erri embroidery on collar.",
+    "price": "55.11",
+    "stock": "23",
+    "seller": "Not Fashion"
+  },
+  {
+    "category": "Couple-clothing",
+    "id": 16,
+    "image": "https://5.imimg.com/data5/SELLER/Default/2021/1/LX/QN/EF/43898236/corporate-uniforms-500x500.jpg ",
+    "Desc": "Blue embroidered and textured cotton panjabi. Comes with white cotton pajama.",
+    "price": "09.99",
+    "stock": "09",
+    "seller": "Fashion Applied"
+  },
+  {
+    "category": "Women-clothing",
+    "id": 17,
+    "image": "https://static.independent.co.uk/s3fs-public/thumbnails/image/2019/03/27/11/woman-clothing-happy.jpg?width=1200 ",
+    "Desc": "Ivory silk saree with red, peach, grey and black dyeing. Golden, maroon and dusty pink prints all over the body.  ",
+    "price": "122.00",
+    "stock": "12",
+    "seller": "Sharee Bitan"
+  },
+  {
+    "category": "Couple-clothing",
+    "id": 18,
+    "image": " https://ae01.alicdn.com/kf/H9f7e09b09e5b42ac81a9550a817129695/Sweet-Lover-Couples-Clothes-Long-Sleeve-Women-Dress-Men-sets-for-Lover-Bazin-Riche-Plus-Size.jpg_Q90.jpg_.webp",
+    "Desc": "Midnight blue cotton panjabi with multicolour embroidery. Additional erri embroidery on collar.",
+    "price": "88.02",
+    "stock": "05",
+    "seller": "Nondon house"
+  },
+  {
+    "category": "mens-clothing",
+    "id": 19,
+    "image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/701/p-1-good-looking-guys-according-to-the-internet-1511807762.jpg ",
+    "Desc": "Blue embroidered and textured cotton panjabi. Comes with white cotton pajama.",
+    "price": "12.45",
+    "stock": "09",
+    "seller": "Nondini Fashion"
+  },
+  {
+    "category": "mens-clothing",
+    "id": 20,
+    "image": "https://assetscdn1.paytm.com/images/catalog/view_item/620730/1613037322447.jpg?imwidth=414&impolicy=hq ",
+    "Desc": "Red cotton panjabi with matching arri embroidery. Comes with white cotton pajama.",
+    "price": "66.09",
+    "stock": "08",
+    "seller": " Applied"
+  },
+  {
+    "category": "women-clothing",
+    "id": 21,
+    "image": " https://j3u9y6m9.rocketcdn.me/wp-content/uploads/2017/01/white-tshirt-and-jeans-388x500.jpg",
+    "Desc": "Midnight blue cotton panjabi with multicolour embroidery. Additional erri embroidery on collar. Black cotton pajama with drawstring, elastic waist and button fly.",
+    "price": "20.43",
+    "stock": "23",
+    "seller": "Ninun Wear"
+  },
+  {
+    "category": "women-clothing",
+    "id": 22,
+    "image": " https://j3u9y6m9.rocketcdn.me/wp-content/uploads/2017/01/white-tshirt-and-jeans-388x500.jpg",
+    "Desc": "Midnight blue cotton panjabi with multicolour embroidery. Additional erri embroidery on collar. Black cotton pajama with drawstring, elastic waist and button fly.",
+    "price": "20.43",
+    "stock": "23",
+    "seller": "Ninun Wear"
+  },
+  {
+    "category": "women-clothing",
+    "id": 23,
+    "image": " https://j3u9y6m9.rocketcdn.me/wp-content/uploads/2017/01/white-tshirt-and-jeans-388x500.jpg",
+    "Desc": "Midnight blue cotton panjabi with multicolour embroidery. Additional erri embroidery on collar. Black cotton pajama with drawstring, elastic waist and button fly.",
+    "price": "20.43",
+    "stock": "23",
+    "seller": "Ninun Wear"
+  },
+  {
+    "category": "women-clothing",
+    "id": 24,
+    "image": " https://j3u9y6m9.rocketcdn.me/wp-content/uploads/2017/01/white-tshirt-and-jeans-388x500.jpg",
+    "Desc": "Midnight blue cotton panjabi with multicolour embroidery. Additional erri embroidery on collar. Black cotton pajama with drawstring, elastic waist and button fly.",
+    "price": "20.43",
+    "stock": "23",
+    "seller": "Ninun Wear"
+  },
+  {
+    "category": "women-clothing",
+    "id": 25,
+    "image": " https://j3u9y6m9.rocketcdn.me/wp-content/uploads/2017/01/white-tshirt-and-jeans-388x500.jpg",
+    "Desc": "Midnight blue cotton panjabi with multicolour embroidery. Additional erri embroidery on collar. Black cotton pajama with drawstring, elastic waist and button fly.",
+    "price": "20.43",
+    "stock": "23",
+    "seller": "Ninun Wear"
+  },
+  {
+    "category": "women-clothing",
+    "id": 26,
+    "image": " https://j3u9y6m9.rocketcdn.me/wp-content/uploads/2017/01/white-tshirt-and-jeans-388x500.jpg",
+    "Desc": "Midnight blue cotton panjabi with multicolour embroidery. Additional erri embroidery on collar. Black cotton pajama with drawstring, elastic waist and button fly.",
+    "price": "20.43",
+    "stock": "23",
+    "seller": "Ninun Wear"
+  },
+  {
+    "category": "women-clothing",
+    "id": 27,
+    "image": " https://j3u9y6m9.rocketcdn.me/wp-content/uploads/2017/01/white-tshirt-and-jeans-388x500.jpg",
+    "Desc": "Midnight blue cotton panjabi with multicolour embroidery. Additional erri embroidery on collar. Black cotton pajama with drawstring, elastic waist and button fly.",
+    "price": "20.43",
+    "stock": "23",
+    "seller": "Ninun Wear"
+  },
+  {
+    "category": "women-clothing",
+    "id": 21,
+    "image": " https://j3u9y6m9.rocketcdn.me/wp-content/uploads/2017/01/white-tshirt-and-jeans-388x500.jpg",
+    "Desc": "Midnight blue cotton panjabi with multicolour embroidery. Additional erri embroidery on collar. Black cotton pajama with drawstring, elastic waist and button fly.",
+    "price": "20.43",
+    "stock": "23",
+    "seller": "Ninun Wear"
+  }
+]
