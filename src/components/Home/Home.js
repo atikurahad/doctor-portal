@@ -1,7 +1,6 @@
 import { Button } from "@mui/material";
 import React from "react";
-import image2 from "../Assets/doctor.png";
-
+import image2 from '../Assets/doctor.png'
 const Home = () => {
   return (
     <div>
@@ -9,6 +8,7 @@ const Home = () => {
         <section>
           <img className="h-[29rem]" src={image2} alt="img"></img>
         </section>
+
         <section>
           <p className="text-[3rem] text-[white] font-semibold p-5">
             Make a Health Plan For <br />{" "}
